@@ -15,8 +15,17 @@ Proces DEVOPS dla API
 
 Kreator Online dla API
 
-
 Testowanie już istniejacych api
+
+Inne narzedzia, ktore uzywa:
+
++ promagen - web management dla devops
+	+ apicra - skrypty do instalacji env
+
++ vodapi - metadane potrzebne do stworzenia aplikacji	
++ unitapi - ladowanie plikow: js, css, html	
++ apibuild - generator aplikacji *vodapp* na podstawie dokumentacji *vodapi*
++ vodapp - aplikacja na serwerze dokku z subomena, na podstawie generatora *apibuild* w oparciu o dokumentacji *vodapi*
 
 
 ### Przykłady wykorzystani APIbuild:
