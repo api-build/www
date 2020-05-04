@@ -1,6 +1,6 @@
 # Info about ApiBuild
 
-![apibuild-logo.png](apibuild-logo.png)
+![apibuild-logo.png](http://logo.apibuild.com//apibuild-logo.png)
 
 ## Co to jest ApiBuild?
 
