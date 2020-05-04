@@ -1,6 +1,6 @@
-# docs
-Info about ApiBuild
+# Info about ApiBuild
 
+![apibuild-logo.png](apibuild-logo.png)
 
 ## Co to jest ApiBuild?
 
