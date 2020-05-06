@@ -23,8 +23,20 @@ Now, in 2020 we are giving solutions:
 + [APIbuild - build process definition, focused on quality, versioning](https://apibuild.com)
 
 
-
 ## Co to jest ApiBuild?
+
+
+procesy określające kolejności powstawania nowych wersji oprogramowania, pozwala na odróżnienie wersji między sobą.
+
+Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku powstania), liczbą rzeczywistą lub zestawieniem kilku liczb naturalnych. W ostatnim przypadku kolejne liczby oddziela się zazwyczaj kropką, a ich znaczenie jest następujące:
++ Major (numer główny),
++ Minor (numer dodatkowy),
++ Release (numer wydania)
+
+Responsibility:
++ #MANAGER-ROLE
+
+## Inne
 
 narzędzia do stworzenia, testowania i deploymentu API
 
