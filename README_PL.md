@@ -1,3 +1,5 @@
++ [Wersja angielska - EN](https://www.apibuild.com/)
+
 # Info about [ApiBuild](http://www.apibuild.com)
 
 ![apibuild-logo.png](https://logo.apibuild.com//apibuild-logo.png)
@@ -56,8 +58,8 @@ Inne narzedzia, ktore uzywa:
 + promagen - web management dla devops
 	+ apicra - skrypty do instalacji env
 
-+ vodapi - metadane potrzebne do stworzenia aplikacji	
-+ unitapi - ladowanie plikow: js, css, html	
++ vodapi - metadane potrzebne do stworzenia aplikacji
++ unitapi - ladowanie plikow: js, css, html
 + apibuild - generator aplikacji *vodapp* na podstawie dokumentacji *vodapi*
 + vodapp - aplikacja na serwerze dokku z subomena, na podstawie generatora *apibuild* w oparciu o dokumentacji *vodapi*
 
@@ -67,11 +69,11 @@ Inne narzedzia, ktore uzywa:
 Test domen
 	Dns,
 	Serwery, konfiguracja
-	
+
 Test uslug na numerach IP, domenach
 
 Import domen z kont uslugodawcow:
-Domen, 
+Domen,
 Cloudflare
 Z listy TEXTAREA, csv
 Z PLESK
@@ -86,14 +88,14 @@ Z PLESK
 Od uzycia definicji
 Monitoruje wszystkie kroki w celu utworzenia API w oparciu o więcej rozwiązań niż tylko Apicra.
 
-## APIcra 
+## APIcra
 - tools do instalacji/usuwania/naprawiania przez gotowe skrypty bash / python / js
 
 ## DevOpsTerminal
-- UI dla ApiCra, 
+- UI dla ApiCra,
 
 ### do czego służy i jak działa
-+ terminal konsoli w przeglądarce / telefonie, 
++ terminal konsoli w przeglądarce / telefonie,
 + praca grupowa
 
 
