@@ -27,6 +27,7 @@ Now, in 2020 we are giving solutions:
 
 ## Co to jest ApiBuild?
 
+### Wersjonowanie
 
 procesy określające kolejności powstawania nowych wersji oprogramowania, pozwala na odróżnienie wersji między sobą.
 
@@ -35,8 +36,19 @@ Zazwyczaj jest liczbą naturalną (np. numerowanie wersji od 1 lub według roku 
 + Minor (numer dodatkowy),
 + Release (numer wydania)
 
-Responsibility:
+### Jakość
+
+oprogramowania i środowiska
+
+
+### Monitorowanie
+
+procesów zachodzących w środowisku i oprogramowaniu
+
+
+### Odpowiedzialności wymagane dla tego modułu
 + #MANAGER-ROLE
+
 
 ## Inne
 
@@ -64,7 +76,7 @@ Inne narzedzia, ktore uzywa:
 + vodapp - aplikacja na serwerze dokku z subomena, na podstawie generatora *apibuild* w oparciu o dokumentacji *vodapi*
 
 
-### Przykłady wykorzystani APIbuild:
+### Przykłady wykorzystania APIbuild:
 
 Test domen
 	Dns,
