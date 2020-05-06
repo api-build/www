@@ -1,6 +1,6 @@
 # Info about [ApiBuild](http://www.apibuild.com)
 
-![apibuild-logo.png](http://logo.apibuild.com//apibuild-logo.png)
+![apibuild-logo.png](https://logo.apibuild.com//apibuild-logo.png)
 https://github.com/api-build/logo
 
 
