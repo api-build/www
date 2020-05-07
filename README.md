@@ -1,6 +1,6 @@
 + [polish version - PL](https://www.apibuild.com/README_PL.html)
 
-# Info about [ApiBuild](http://www.apibuild.com)
+# Info about [ApiBuild](https://www.apibuild.com)
 
 ![apibuild-logo.png](https://logo.apibuild.com//apibuild-logo.png)
 https://github.com/api-build/logo
